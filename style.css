@@ -453,6 +453,10 @@ nav ul li a:hover{
     .skill:hover{
         animation: away400 0.5s ease-in-out 0s 1 normal forwards;
     }
+    .content{
+        overflow: hidden;
+        height: 250px;
+    }
     .content h1{
         font-size: 30px;
     }
@@ -466,7 +470,7 @@ nav ul li a:hover{
     .project{
         width: 160px;
         height: 160px;
-        margin: 15px;
+        margin: 10px;
     }
     .logo img{
         height: 35px;
@@ -478,10 +482,16 @@ nav ul li a:hover{
     .education p{
         font-size: 15px;
     }
+    .about2{
+        overflow: hidden;
+    }
 }
 @media screen and (max-width:340px){
     .container span{
         font-size: 23px;
+    }
+    .about2{
+        overflow: hidden;
     }
     .skill{
         font-size: 12px;
