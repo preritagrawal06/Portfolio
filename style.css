@@ -465,11 +465,11 @@ nav ul li a:hover{
         height: 85px;
     }
     .project span{
-        font-size: 15px;
+        font-size: 13px;
     }
     .project{
-        width: 160px;
-        height: 160px;
+        width: 150px;
+        height: 150px;
         margin: 10px;
     }
     .logo img{
@@ -492,6 +492,21 @@ nav ul li a:hover{
     }
     .about2{
         overflow: hidden;
+    }
+    .content{
+        height: 200px;
+    }
+    .project{
+        margin: 2px;
+        height: 120px;
+        width: 120px;
+    }
+    .project img{
+        width: 70px;
+        height: 70px;
+    }
+    .project span{
+        font-size: 10px;
     }
     .skill{
         font-size: 12px;
