@@ -58,7 +58,7 @@ nav ul li a:hover{
 .container span{
     position: relative;
     top: 40%;
-    margin:0px 30px;
+    margin-left:20px;
     font-size: 100px;
     color: #ffd803;
 }
